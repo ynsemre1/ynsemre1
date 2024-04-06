@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Yunus.
 - 🌱 I’m currently learning Android and Game Development.
-- 🤔 Currently, I'm learning C# and Kotlin.
-- 🔭 My interests include Ai, Chess, Blender, Unity, Unreal Engine, and Kali.
+- 🔭 My interests include Ai, Chess, Blender, Unity, Unreal Engine and Kali.
 
 <!--
 **ynsemre1/ynsemre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
