@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Yunus.
-- 🌱 I’m currently learning Android/IOS and Game Development.
+- 🌱 I’m currently learning Android/IOS and C# Developer.
 - 🔭 My interests include Ai, Chess, Blender, Unity, Unreal Engine and Kali.
 
 <!--
