@@ -8,11 +8,10 @@
 
 ### 🔥 About Me
 
-- 🎯 Full Stack Developer based in Ankara, Turkey 🇹🇷
+- 🎯 Full Stack Developer
 - 💻 Currently developing React & React Native projects.
-- 📱 Working on mobile apps, web frontends, and connecting them with Firebase.
+- 📱 Building mobile apps, modern web frontends, and diving into backend development with .NET and Node.js.
 - 🧠 2025 Goals: Learn Docker, Kubernetes & dive into .NET / ASP.NET backend development.
-- ⚡ Fun fact: I enjoy making serious software with funny variable names 😄
 
 ---
 
