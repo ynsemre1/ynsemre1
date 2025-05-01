@@ -1,8 +1,8 @@
-### Hi there, I'm Yunus Emre Akyol! 👋
+### Hi there, I'm Yunus Emre! 👋
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+🌍;I'm+Yunus+Emre+Akyol.;Full+Stack+Developer+🚀;Welcome+to+my+GitHub!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+🌍;I'm+Yunus+Emre.;Full+Stack+Developer+🚀;Welcome+to+my+GitHub!&center=true&size=25">
   </a>
 </h1>
 
