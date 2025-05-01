@@ -63,16 +63,16 @@
 ### 📌 Pinned Repos
 
 <a href="https://github.com/ynsemre1/csharp-education-kit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=csharp-education-kit&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=csharp-education-kit&theme=algolia&v=1" />
 </a>
 <a href="https://github.com/ynsemre1/swift-education-kit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=swift-education-kit&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=swift-education-kit&theme=algolia&v=1" />
 </a>
 <a href="https://github.com/ynsemre1/polygone-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=polygone-game&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=polygone-game&theme=algolia&v=1" />
 </a>
 <a href="https://github.com/ynsemre1/e-commerce-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=e-commerce-template&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=e-commerce-template&theme=algolia&v=1" />
 </a>
 
 
