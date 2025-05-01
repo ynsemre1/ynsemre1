@@ -71,7 +71,7 @@
 <a href="https://github.com/ynsemre1/polygone-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=polygone-game&theme=algolia" />
 </a>
-<a href="https://github.com/ynsemre1/polygone-game">
+<a href="https://github.com/ynsemre1/e-commerce-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynsemre1&repo=e-commerce-template&theme=algolia" />
 </a>
 
